@@ -15,7 +15,7 @@ function manu() {
         {
             type: "list",
             name: "choice",
-            message: "what does your heart desires?",
+            message: "what does your heart desire?",
             choices: [
                 {
                     name: "View All Employees",
@@ -90,7 +90,7 @@ function viewEmployeesByDepartment() {
                 {
                     type: "list",
                     name: "departmentId",
-                    message: "Which department woud you like to see employees for?",
+                    message: "Which department would you like to see employees for?",
                     choices: departmentChoices
                 }
             ])
