@@ -11,6 +11,8 @@ SO THAT I can organize and plan my business
 ### demo video
 
 
+Uploading seeds.sql - business-owner - Visual Studio Code 2022-04-13 18-28-05.mp4…
+
 
 
 
