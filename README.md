@@ -8,12 +8,7 @@ SO THAT I can organize and plan my business
 
 
 
-### pictures of demo
-![2022-04-13 (13)](https://user-images.githubusercontent.com/95777065/163294593-1abeb7b2-fbf2-473f-985b-b6d5c4932387.png)
-![2022-04-13 (12)](https://user-images.githubusercontent.com/95777065/163294600-9cacd220-7a53-4736-8b1b-682c38a596f8.png)
-![2022-04-13 (14)](https://user-images.githubusercontent.com/95777065/163294629-14eeaf81-9c67-4054-9eb5-388943c3fa34.png)
-
-
+### demo video
 
 
 
@@ -41,6 +36,10 @@ Each employee has a "title" that is a member of the "roles" database, and each r
 * mySQL
 * Inquirer NPM Package
 * dotenv
+
+### pictures of demo
+
+![2022-04-13 (13)](https://user-images.githubusercontent.com/95777065/163294593-1abeb7b2-fbf2-473f-985b-b6d5c4932387.png)
 
 
 
